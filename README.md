@@ -29,10 +29,10 @@ An introduction to XSS vulnerabilities and its types: Reflected, Stored, and DOM
 
 ## Resources
 
-1. OWASP XSS CheatSheet:https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
-2. Samy Kamkar’s website:https://samy.pl/myspace/
-3. Wikipedia:https://en.wikipedia.org/wiki/Samy_(computer_worm)
-4. Mozilla Developer XSS Guide:https://developer.mozilla.org/en-US/docs/Web/Security/XSS
+1. OWASP XSS CheatSheet: https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
+2. Samy Kamkar’s website: https://samy.pl/myspace/
+3. Wikipedia: https://en.wikipedia.org/wiki/Samy_(computer_worm)
+4. Mozilla Developer XSS Guide: https://developer.mozilla.org/en-US/docs/Web/Security/XSS
 
 
 
@@ -53,10 +53,10 @@ An introduction to XSS vulnerabilities and its types: Reflected, Stored, and DOM
 A 5 days free bootcamp on youtube in the topic of XSS DEFENCE - Block Hackers With One Click
 ##### Link of all 5 days workshops all below mentioned 
 
-1. (https://www.youtube.com/live/gCia_Ix9pd4?si=BVlrbhf2sASYhyUX)
-2. (https://www.youtube.com/live/Ufeq0ZhwIpo?si=GP2r2CdfHU2Z6u6V)
-3. (https://www.youtube.com/live/In_3dwwrv-8?si=MUKsW4SIqWxjIzI5)
-4. (https://www.youtube.com/live/O3vWIfgd5AU?si=MoHwh4jeScb5xdck)
+1. https://www.youtube.com/live/gCia_Ix9pd4?si=BVlrbhf2sASYhyUX
+2. https://www.youtube.com/live/Ufeq0ZhwIpo?si=GP2r2CdfHU2Z6u6V
+3. https://www.youtube.com/live/In_3dwwrv-8?si=MUKsW4SIqWxjIzI5
+4. https://www.youtube.com/live/O3vWIfgd5AU?si=MoHwh4jeScb5xdck
 5. https://www.youtube.com/live/p7R_Ade5OfQ?si=KO4ie0dgMDPCDqel
 
 
