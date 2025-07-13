@@ -57,7 +57,7 @@ A 5 days free bootcamp on youtube in the topic of XSS DEFENCE - Block Hackers Wi
 2. (https://www.youtube.com/live/Ufeq0ZhwIpo?si=GP2r2CdfHU2Z6u6V)
 3. (https://www.youtube.com/live/In_3dwwrv-8?si=MUKsW4SIqWxjIzI5)
 4. (https://www.youtube.com/live/O3vWIfgd5AU?si=MoHwh4jeScb5xdck)
-5. (https://www.youtube.com/live/p7R_Ade5OfQ?si=KO4ie0dgMDPCDqel)
+5. https://www.youtube.com/live/p7R_Ade5OfQ?si=KO4ie0dgMDPCDqel
 
 
 PREVIEW
