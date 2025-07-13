@@ -29,7 +29,7 @@ An introduction to XSS vulnerabilities and its types: Reflected, Stored, and DOM
 
 ## Resources
 
-1. OWASP XSS Cheat Sheet:https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
+1. OWASP XSS CheatSheet:https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
 2. Samy Kamkar’s website:https://samy.pl/myspace/
 3. Wikipedia:https://en.wikipedia.org/wiki/Samy_(computer_worm)
 4. Mozilla Developer XSS Guide:https://developer.mozilla.org/en-US/docs/Web/Security/XSS
@@ -43,9 +43,5 @@ An introduction to XSS vulnerabilities and its types: Reflected, Stored, and DOM
 
 
 
-
-
-
-<img width="690" height="364" alt="XSS_Report docx and 4 more pages - Person 1 - Microsoft​ Edge 7_13_2025 10_21_10 PM" src="https://github.com/user-attachments/assets/31c84539-b50b-414c-a4c0-16aef6b0ea6e" />
 
 
