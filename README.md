@@ -48,6 +48,8 @@ An introduction to XSS vulnerabilities and its types: Reflected, Stored, and DOM
 #### DevTown with the collebration of MSIT Student Chapter and GOOGLE Developer Groups on campus VIT-AP
 
 
+
+## Workshops / video lectures
 A 5 days free bootcamp on youtube in the topic of XSS DEFENCE - Block Hackers With One Click
 ##### Link of all 5 days workshops all below mentioned 
 
